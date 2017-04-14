@@ -15,7 +15,7 @@ _getRempliHome()
 	        
 	     
 		echo '{'
-			  echo '"group": "#Home",'
+			 
 			    echo '"icon": "fa fa-home",'
 			     echo  '"subgroups": ['
 			       echo  '{'
