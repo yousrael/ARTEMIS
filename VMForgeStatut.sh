@@ -16,15 +16,15 @@ _getRempliHome()
 	     
 		echo '{'
 			 
-			    echo '"icon": "fa fa-home",'
+			    echo '"icon": "fa fa-cog",'
 			     echo  '"subgroups": ['
 			       echo  '{'
 					    echo '"title": "Hardware",'
 					         echo '"icon": "fa fa-cog",'
 						    echo ' "content": ['
 						          echo '{"type": "plain", "icon": "fa fa-hdd-o", "text": "Remplissage Gitlab", "value": "$var1"},'
-								         echo '{"type": "plain", "icon": "fa fa-hdd-o", "text": "Remplissage Home", "color":"blue","value": "$var2"},'
-										 	 echo '{"type": "plain", "icon": "fa fa-hdd-o", "text": "Memoire vive", "color":"blue","value": "$var3","endline": ""}'
+								         echo '{"type": "plain", "icon": "fa fa-cog", "text": "Remplissage Home", "color":"blue","value": "$var2"},'
+										 	 echo '{"type": "plain", "icon": "fa fa-cog", "text": "Memoire vive", "color":"blue","value": "$var3","endline": ""}'
 											      echo ']'
 											        echo '}'
 												  echo ']'
